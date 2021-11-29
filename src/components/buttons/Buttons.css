@@ -1,0 +1,12 @@
+.btn-random, .btn-favorite {
+    margin-top: 30px;
+    background-color: rgb(57, 57, 230);
+    color: white;
+}
+
+.btn-click {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}

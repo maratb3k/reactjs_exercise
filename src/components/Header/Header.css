@@ -1,0 +1,25 @@
+.header {
+    height: 80px;
+    background-color: #FF8C00;
+}
+
+button {
+    background-color: #FF8C00; 
+    margin-top: 30px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+}
+
+button:active {
+    color:aliceblue
+}
+
+
+
+
+

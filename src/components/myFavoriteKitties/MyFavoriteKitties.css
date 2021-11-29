@@ -1,0 +1,14 @@
+.albumOfCats {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    /* gap: 20px; */
+    justify-content: space-evenly;
+ 
+    flex-wrap: wrap;
+   
+}
+.albumOfCats__img{
+    width: 200px;
+    height: 200px;
+}
